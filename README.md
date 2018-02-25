@@ -9,5 +9,5 @@ NOTES:
 
 2. do `npm install` to install the packages, the versions are specified in the package.json.
 
-	If require these details can be changed inthe solution from the configuration file: lib/Config/env/development.js, this would include: mailgun apikey and domain, plus sendgrid apikey and url. (please use your own if you can as my ones can send to limited email addresses)
+	If require these details can be changed inthe solution from the configuration file: lib/Config/env/development.js, this would include: mailgun apikey and domain, plus sendgrid apikey and url. (please use your own as I could not publish the keys on public domain such as github)
 - The application can be run via `node index.js`
