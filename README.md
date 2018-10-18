@@ -1,7 +1,7 @@
 INTRODUCTION:
 =============
 
-This repo is a simple example of how a web api can be implemented using technologies such as node.js, express.js. 
+This repo is a simple example of how a email web api can be implemented using technologies such as node.js, express.js. 
 
 NOTES:
 ======
